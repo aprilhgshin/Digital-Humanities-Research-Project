@@ -1,4 +1,4 @@
-# Air-Pollution-Research-Project
+# Digital-Humanities-Research-Project
 
 ### Introduction:
 I have been highly interested in the changes in the environment and its impacts on life as well as how the human population contributed to the change. For this project, I decided to do a study on air quality, as it has been a prevalent issue since the beginning of rise of the industry. 
